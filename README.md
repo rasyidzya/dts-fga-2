@@ -1,2 +1,5 @@
-# dts-fga-2
-dts-fga-2
+# Belajar Markdown
+Belajar git
+
+## Apa itu Markdown
+Markdowon adalah sembuah dokumen yang memiliki _format_.
